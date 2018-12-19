@@ -2,10 +2,10 @@
 
 ## Descrições
 
-Projeto Chatbot
-Coding Dojo
-WazeRU
-PyButler
+- Projeto Chatbot
+- Coding Dojo
+- WazeRU
+- PyButler
 
 ## 2018
 
